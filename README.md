@@ -1,4 +1,4 @@
-## Hi Nurds 👋
+# Hi Nurds 👋
 
 Currently in love with **Web App** development and the **JAM stack**!
 In these years I've worked with a lot of technologies around the JavaScript world like React, Vue, Webpack.
